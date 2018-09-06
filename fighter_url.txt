@@ -1,0 +1,24 @@
+Crawling using Demetrious Johnson as root
+http://www.fightmetric.com/fighter-details/8a304bfd6bf04a57
+Crawling using TJ Dillashaw as root
+http://www.fightmetric.com/fighter-details/c849740a3ff51931
+Crawling using Jose Aldo as root
+http://www.fightmetric.com/fighter-details/d0f3959b4a9747e6
+Crawling using Conor McGregor as root
+http://www.fightmetric.com/fighter-details/f4c49976c75c5ab2
+Crawling using Rafael dos Anjos as root
+http://www.fightmetric.com/fighter-details/6a2f7c151031653d
+Crawling using Donald Cerrone as root
+http://www.fightmetric.com/fighter-details/1d00756835ca67c9
+Crawling using Robert Whittaker as root
+http://www.fightmetric.com/fighter-details/e1147d3d2dabe1ce
+Crawling using Anderson Silva as root
+http://www.fightmetric.com/fighter-details/1f454354805b6f75
+Crawling using Jon Jones as root
+http://www.fightmetric.com/fighter-details/07f72a2a7591b409
+Crawling using Alexander Gustafsson as root
+http://www.fightmetric.com/fighter-details/3c6976f8182d9527
+Crawling using Mark Hunt as root
+http://www.fightmetric.com/fighter-details/eef9b891edbd4604
+Crawling using Stipe Miocic as root
+http://www.fightmetric.com/fighter-details/d28dee5c705991df
